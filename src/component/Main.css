@@ -1,0 +1,14 @@
+.Main-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 90px;
+}
+
+h3{
+    margin: 0;
+}
+
+.Main-picture{
+    display: flex;
+    flex-direction: row;
+}
