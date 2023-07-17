@@ -1,0 +1,17 @@
+
+
+.listul{
+    padding : 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.listpagemenu{
+    display: flex;
+    flex-direction: column;
+}
+
+.listpagep{
+    display: flex;
+    justify-content: center;
+}

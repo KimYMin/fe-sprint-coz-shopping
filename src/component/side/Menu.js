@@ -12,12 +12,12 @@ export default function Menu(){
                 <p>김용민님, 안녕하세요!</p>
               </li>
               <li>
-                <Link to="/products/list">
+                <Link to="/listpage">
                     <img src='listpage.png' alt='listpage'/>상품리스트
                 </Link>
               </li>
               <li>
-                <Link to="/bookmark">
+                <Link to="/bookmarkpage">
                     <img src='bookmark.png' alt='bookmark'/>북마크페이지
                 </Link>
               </li>
