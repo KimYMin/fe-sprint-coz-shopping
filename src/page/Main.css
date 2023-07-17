@@ -1,0 +1,16 @@
+.Main-container{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 90px;
+}
+
+h3{
+    margin: 0px;
+}
+
+.Main-picture{
+    display: grid;
+    grid-template-columns: repeat(4, 310px);
+    justify-content: start;
+    margin-bottom: 50px;
+}
